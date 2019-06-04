@@ -9,9 +9,6 @@
       {"id" : 7, "parent_id" : 0, "name" : "Кровельные материалы", "description" : "", "sub_category_count" : 10, "path" : "krovelnye-materialy", "count" : 24},
       {"id" : 8, "parent_id" : 0, "name" : "Сайдинг, фасадные панели, водосточные системы", "description" : "", "sub_category_count" : 6, "path" : "sayding-fasadnye-paneli-vodostochnye-sistemy", "count" : 24},
       {"id" : 9, "parent_id" : 0, "name" : "Дренаж и водоотвод, септики", "description" : "", "sub_category_count" : 2, "path" : "drenazh-i-vodootvod-septiki", "count" : 24},
-      {"id" : 10, "parent_id" : 0, "name" : "Плитка тротуарная", "description" : "", "sub_category_count" : 0, "path" : "plitka-trotuarnaya", "count" : 24},
-      {"id" : 11, "parent_id" : 0, "name" : "Столбы, ворота, калитки, сетка заборная", "description" : "", "sub_category_count" : 3, "path" : "stolby-vorota-kalitki-setka-zabornaya", "count" : 24},
-      {"id" : 12, "parent_id" : 0, "name" : "Крепеж, метизы, скобяные изделия", "description" : "", "sub_category_count" : 11, "path" : "krepezh-metizy-skobyanye-izdeliya", "count" : 24},
-      {"id" : 13, "parent_id" : 0, "name" : "Лакокрасочные материалы", "description" : "", "sub_category_count" : 14, "path" : "lakokrasochnye-materialy", "count" : 24}
+      {"id" : 10, "parent_id" : 0, "name" : "Плитка тротуарная", "description" : "", "sub_category_count" : 0, "path" : "plitka-trotuarnaya", "count" : 24}
   ] 
 }
