@@ -1,8 +1,8 @@
-{"status" : "ok",
- "type" : "sub_category",
- "content" : [ {"id" : 13, "parent_id" : 12, "name" : "Доска сухая", "description" : "", "path" : "", "count" : 24},
-             {"id" : 14, "parent_id" : 12, "name" : "Доска сухая 1", "description" : "", "path" : "", "count" : 24},
-             {"id" : 15, "parent_id" : 12, "name" : "Доска сухая 2", "description" : "", "path" : "", "count" : 24},
-             {"id" : 16, "parent_id" : 12, "name" : "Доска сухая 3", "description" : "", "path" : "", "count" : 24}
-             ] 
+{
+ "content" : [ 
+      {"id" : 13, "parent_id" : 12, "name" : "Доска сухая", "description" : "", "path" : "", "count" : 24},
+      {"id" : 14, "parent_id" : 12, "name" : "Доска сухая 1", "description" : "", "path" : "", "count" : 24},
+      {"id" : 15, "parent_id" : 12, "name" : "Доска сухая 2", "description" : "", "path" : "", "count" : 24},
+      {"id" : 16, "parent_id" : 12, "name" : "Доска сухая 3", "description" : "", "path" : "", "count" : 24}
+  ] 
 }
