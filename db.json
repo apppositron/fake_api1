@@ -1,14 +1,14 @@
 {
  "topcategories" : [ 
-      {"id" : 13, "parent_id" : 12, "name" : "Пиломатериалы", "description" : "", "path" : "pilomaterialy", "count" : 24},
-      {"id" : 14, "parent_id" : 12, "name" : "Металлопрокат", "description" : "", "path" : "metalloprokat", "count" : 24},
-      {"id" : 15, "parent_id" : 12, "name" : "Древесно-плитные материалы", "description" : "", "path" : "drevesno-plitnye-materialy", "count" : 24},
-      {"id" : 16, "parent_id" : 12, "name" : "Гипсокартон и аксессуары", "description" : "", "path" : "gipsokarton-i-aksessuary", "count" : 24},
-      {"id" : 16, "parent_id" : 12, "name" : "Общестроительные материалы", "description" : "", "path" : "obshchestroitelnye-materialy", "count" : 24},
-      {"id" : 16, "parent_id" : 12, "name" : "Теплоизоляция и Гидро-пароизоляция", "description" : "", "path" : "teploizolyaciya-i-gidro-paroizolyaciya", "count" : 24},
-      {"id" : 16, "parent_id" : 12, "name" : "Кровельные материалы", "description" : "", "path" : "krovelnye-materialy", "count" : 24},
-      {"id" : 16, "parent_id" : 12, "name" : "Сайдинг, фасадные панели, водосточные системы", "description" : "", "path" : "sayding-fasadnye-paneli-vodostochnye-sistemy", "count" : 24},
-      {"id" : 16, "parent_id" : 12, "name" : "Дренаж и водоотвод, септики", "description" : "", "path" : "drenazh-i-vodootvod-septiki", "count" : 24},
-      {"id" : 16, "parent_id" : 12, "name" : "Плитка тротуарная", "description" : "", "path" : "plitka-trotuarnaya", "count" : 24}
+      {"id" : 1, "parent_id" : 0, "name" : "Пиломатериалы", "description" : "", "path" : "pilomaterialy", "count" : 24},
+      {"id" : 2, "parent_id" : 0, "name" : "Металлопрокат", "description" : "", "path" : "metalloprokat", "count" : 24},
+      {"id" : 3, "parent_id" : 0, "name" : "Древесно-плитные материалы", "description" : "", "path" : "drevesno-plitnye-materialy", "count" : 24},
+      {"id" : 4, "parent_id" : 0, "name" : "Гипсокартон и аксессуары", "description" : "", "path" : "gipsokarton-i-aksessuary", "count" : 24},
+      {"id" : 5, "parent_id" : 0, "name" : "Общестроительные материалы", "description" : "", "path" : "obshchestroitelnye-materialy", "count" : 24},
+      {"id" : 6, "parent_id" : 0, "name" : "Теплоизоляция и Гидро-пароизоляция", "description" : "", "path" : "teploizolyaciya-i-gidro-paroizolyaciya", "count" : 24},
+      {"id" : 7, "parent_id" : 0, "name" : "Кровельные материалы", "description" : "", "path" : "krovelnye-materialy", "count" : 24},
+      {"id" : 8, "parent_id" : 0, "name" : "Сайдинг, фасадные панели, водосточные системы", "description" : "", "path" : "sayding-fasadnye-paneli-vodostochnye-sistemy", "count" : 24},
+      {"id" : 9, "parent_id" : 0, "name" : "Дренаж и водоотвод, септики", "description" : "", "path" : "drenazh-i-vodootvod-septiki", "count" : 24},
+      {"id" : 10, "parent_id" : 0, "name" : "Плитка тротуарная", "description" : "", "path" : "plitka-trotuarnaya", "count" : 24}
   ] 
 }
