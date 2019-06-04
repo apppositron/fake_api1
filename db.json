@@ -11,5 +11,16 @@
       {"id" : 9, "parent_id" : 0, "name" : "Дренаж и водоотвод, септики", "description" : "", "sub_category_count" : 2, "path" : "drenazh-i-vodootvod-septiki", "count" : 24},
       {"id" : 10, "parent_id" : 0, "name" : "Плитка тротуарная", "description" : "", "sub_category_count" : 0, "path" : "plitka-trotuarnaya", "count" : 24}
   ],
- "categories" : []
+ "categories" : [
+      {"id" : 1, "parent_id" : 0, "name" : "Пиломатериалы", "description" : "", "sub_category_count" : 8,  "path" : "pilomaterialy", "count" : 24},
+      {"id" : 2, "parent_id" : 0, "name" : "Металлопрокат", "description" : "", "sub_category_count" : 11, "path" : "metalloprokat", "count" : 24},
+      {"id" : 3, "parent_id" : 0, "name" : "Древесно-плитные материалы", "description" : "", "sub_category_count" : 5, "path" : "drevesno-plitnye-materialy", "count" : 24},
+      {"id" : 4, "parent_id" : 0, "name" : "Гипсокартон и аксессуары", "description" : "", "sub_category_count" : 3, "path" : "gipsokarton-i-aksessuary", "count" : 24},
+      {"id" : 5, "parent_id" : 0, "name" : "Общестроительные материалы", "description" : "", "sub_category_count" : 7, "path" : "obshchestroitelnye-materialy", "count" : 24},
+      {"id" : 6, "parent_id" : 0, "name" : "Теплоизоляция и Гидро-пароизоляция", "description" : "", "sub_category_count" : 2, "path" : "teploizolyaciya-i-gidro-paroizolyaciya", "count" : 24},
+      {"id" : 7, "parent_id" : 0, "name" : "Кровельные материалы", "description" : "", "sub_category_count" : 10, "path" : "krovelnye-materialy", "count" : 24},
+      {"id" : 8, "parent_id" : 0, "name" : "Сайдинг, фасадные панели, водосточные системы", "description" : "", "sub_category_count" : 6, "path" : "sayding-fasadnye-paneli-vodostochnye-sistemy", "count" : 24},
+      {"id" : 9, "parent_id" : 0, "name" : "Дренаж и водоотвод, септики", "description" : "", "sub_category_count" : 2, "path" : "drenazh-i-vodootvod-septiki", "count" : 24},
+      {"id" : 10, "parent_id" : 0, "name" : "Плитка тротуарная", "description" : "", "sub_category_count" : 0, "path" : "plitka-trotuarnaya", "count" : 24}
+ ]
 }
