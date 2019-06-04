@@ -11,5 +11,5 @@
       {"id" : 9, "parent_id" : 0, "name" : "Дренаж и водоотвод, септики", "description" : "", "sub_category_count" : 2, "path" : "drenazh-i-vodootvod-septiki", "count" : 24},
       {"id" : 10, "parent_id" : 0, "name" : "Плитка тротуарная", "description" : "", "sub_category_count" : 0, "path" : "plitka-trotuarnaya", "count" : 24}
   ],
- categories : []
+ "categories" : []
 }
