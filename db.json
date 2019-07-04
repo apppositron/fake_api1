@@ -1,4 +1,4 @@
-{"popcategories" : [
+{"pop-categories" : [
  	{"id":13,"parent_id":1,"name":"Вагонка","description":"","sub_category_count":0,"path":"vagonka", "banner_url" : "https://raw.githubusercontent.com/apppositron/fake_api_pics/master/vagonka.png", "product_count":24},
 	{"id":14,"parent_id":1,"name":"Доска","description":"","sub_category_count":0,"path":"doska", "banner_url" : "https://raw.githubusercontent.com/apppositron/fake_api_pics/master/doski.png", "product_count":13},
  	{"id":26,"parent_id":2,"name":"Трубы профильные","description":"","sub_category_count":0,"path":"truby-profilnye", "banner_url" : "https://raw.githubusercontent.com/apppositron/fake_api_pics/master/truby.png", "product_count":16},
