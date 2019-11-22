@@ -1,10 +1,10 @@
 {"deliveryinfo" : {
-	"zone_number" = 1
-	"during_day" = 250
-	"half_time" = 450 
-	"express" = 1050 
+	"zone_number" : 1
+	"during_day" : 250
+	"half_time" : 450 
+	"express" : 1050 
 },
 "deliveryservice_price" : {
-	"services_price" = 300
+	"services_price" : 300
 }
 }
