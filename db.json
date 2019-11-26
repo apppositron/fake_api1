@@ -1,8 +1,8 @@
 {"deliveryinfo" : {
 	"zone_number" : 1,
-	"during_day" : 250,
-	"half_time" : 450,
-	"express" : 1050 
+	"during_day" : 150,
+	"half_time" : 670,
+	"express" : 890 
 },
 "deliveryservice_price" : {
 	"services_price" : 300
