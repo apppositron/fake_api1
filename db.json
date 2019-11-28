@@ -1,10 +1,19 @@
-{"deliveryinfo" : {
-	"zone_number" : 1,
-	"during_day" : 150,
-	"half_time" : 670,
-	"express" : 890 
-},
-"deliveryservice_price" : {
-	"services_price" : 300
-}
+{
+	"deliveryinfo" : {
+		"zone_number" : 1,
+		"during_day" : 150,
+		"half_time" : 670,
+		"express" : 890 
+	},
+ 
+	"deliveryservice_price" : {
+		"services_price" : 300
+	},
+ 
+	"order_create" : {
+		"order_id" : 223523,
+		"order_status" : "new",
+		"payment_redirect" : "https://www.sberbank.ru/ru/person"
+	}
+ 
 }
