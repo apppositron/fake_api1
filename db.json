@@ -1,6 +1,5 @@
 {
-	"order_info" : {
-		[
+	"order_info" : [
 			{
 				"order_id" : 469192,
 				"delivery_fio" : "Drugs Derry",
@@ -43,8 +42,7 @@
 					}
 				]
 			} 
-		]
-	}
+		],
  
 	"order_create" : {
 		"order_id" : 223523,
