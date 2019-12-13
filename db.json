@@ -1,18 +1,50 @@
 {
-	"deliveryinfo" : {
-		"available" : true,
-		"message" : null,
-		"during_day" : 450,
-		"half_day" : 700,
-		"express" : 1200,
-		"during_4h" : 0,
-		"half_time_interv" : ["9:00-15:00", "15:00- 21:00"],
-		"express_interv" : ["9:00-11:00", "10:00-12:00", "11:00-13:00", "12:00-14:00", "13:00-15:00", "14:00-16:00", "15:00-17:00", "16:00-18:00", "17:00-19:00", "18:00-20:00", "19:00-21:00"]
-	},
- 
-	"deliveryservice_price" : {
-		"services_price" : 300
-	},
+	"order_info" : {
+		[
+			{
+				"order_id" : 469192,
+				"delivery_fio" : "Drugs Derry",
+				"delivery_phone" : "+7 (456) 457 45 74",
+				"delivery_address" : "г. Волхов, мкр Виковщина, д 5",
+				"delivery_date" : "2019-12-15",
+				"time_type" : 1,
+				"time_interval" : "15:00 - 21:00 (19:00)",
+				"req_manipulator" : 0,
+				"reg_date" : "2019-12-05",
+
+				"delivery_type" : 0,
+				"payment_type" : 0,
+				"order_status" : "Обрабатывается",
+				"delivery_price" : 550,
+				"service_price" : 0,
+				"product_price" : 162,
+
+				"products": [
+					{
+						"gcode": 23541627,
+						"name": "Профиль поликарбонатный торцевой 4мм прозрачный длина 2.1м",
+						"price": 55.00,
+						"img_preview": "/u/shop/235/preview/23541627_9b942d04278aef719a37419763e41345a0118beee7c2a994de3fc1476145fe15.jpg",
+						"count": 1
+					},
+					{
+						"gcode": 23479432,
+						"name": "Профиль для поликарбоната торцевой 4мм 2.1м прозрачный",
+						"price": 52.00,
+						"img_preview": "/u/shop/235/preview/23541627_9b942d04278aef719a37419763e41345a0118beee7c2a994de3fc1476145fe15.jpg",
+						"count": 1
+					},
+					{
+						"gcode": 23448377,
+						"name": "Термошайба d38мм для поликарб. 4мм бронза 25шт",
+						"price": 209.00,
+						"img_preview": "/u/shop/234/preview/23448377_21ae729f9434a266649cda8502bca3e67a0e2366e1f6b96eb43a57b30531ba94.jpg",
+						"count": 6
+					}
+				]
+			} 
+		]
+	}
  
 	"order_create" : {
 		"order_id" : 223523,
