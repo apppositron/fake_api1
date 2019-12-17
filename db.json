@@ -13,7 +13,7 @@
 
 				"delivery_type" : 0,
 				"payment_type" : 0,
-				"order_status" : "Обрабатывается",
+				"order_status" : "В обработке",
 				"delivery_price" : 550,
 				"service_price" : 0,
 				"product_price" : 162,
