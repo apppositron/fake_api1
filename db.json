@@ -50,25 +50,25 @@
 	},
 	
 	"user_register" : {
-		"result": "success"
-		"user_id": 890021
-		"virtual_number": 899073
-		"first_name": "John"
-		"last_name": "Derry" 
-		"gender": 0
-		"phone": "+7 (456) 457 45 74"
+		"result": "success",
+		"user_id": 890021,
+		"virtual_number": 899073,
+		"first_name": "John",
+		"last_name": "Derry",
+		"gender": 0,
+		"phone": "+7 (456) 457 45 74",
 		"birthdate": "1987-05-04T21:00:00.000Z"
 	},
 	
 	
 	"user_login" : {
-		"result": "success"
-		"user_id": 890021
-		"virtual_number": 899073
-		"first_name": "John"
-		"last_name": "Derry" 
-		"gender": 0
-		"phone": "+7 (456) 457 45 74"
+		"result": "success",
+		"user_id": 890021,
+		"virtual_number": 899073,
+		"first_name": "John",
+		"last_name": "Derry",
+		"gender": 0,
+		"phone": "+7 (456) 457 45 74",
 		"birthdate": "1987-05-04T21:00:00.000Z"
 	}
  
