@@ -17,6 +17,7 @@
 				"delivery_price" : 550,
 				"service_price" : 0,
 				"product_price" : 162,
+				"total_price" : 712.0,
 
 				"products": [
 					{
