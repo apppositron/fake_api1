@@ -8,12 +8,12 @@
 				"delivery_date" : "2019-12-15",
 				"time_type" : 1,
 				"time_interval" : "15:00 - 21:00 (19:00)",
-				"req_manipulator" : 0,
 				"reg_date" : "2019-12-05",
 
 				"delivery_type" : 0,
 				"payment_type" : 0,
 				"order_status" : "В обработке",
+				"weight" : 1.4,
 				"delivery_price" : 550,
 				"service_price" : 0,
 				"product_price" : 162,
