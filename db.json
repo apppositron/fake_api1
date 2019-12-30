@@ -58,7 +58,7 @@
 		"last_name": "Derry",
 		"gender": 0,
 		"phone": "+7 (456) 457 45 74",
-		"birthdate": "1987-05-04T21:00:00.000Z"
+		"birthdate": "1987-05-04"
 	},
 	
 	
@@ -70,7 +70,7 @@
 		"last_name": "Derry",
 		"gender": 0,
 		"phone": "+7 (456) 457 45 74",
-		"birthdate": "1987-05-04T21:00:00.000Z"
+		"birthdate": "1987-05-04"
 	}
  
 }
