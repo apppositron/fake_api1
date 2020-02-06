@@ -1,76 +1,79 @@
 {
-	"order_info" :
-			{
-				"order_id" : 469192,
-				"delivery_fio" : "Drugs Derry",
-				"delivery_phone" : "+7 (456) 457 45 74",
-				"delivery_address" : "г. Волхов, мкр Виковщина, д 5",
-				"delivery_date" : "2019-12-15",
-				"time_type" : 1,
-				"time_interval" : "15:00 - 21:00 (19:00)",
-				"reg_date" : "2019-12-05",
-
-				"delivery_type" : 0,
-				"payment_type" : 0,
-				"order_status" : "В обработке",
-				"weight" : 1.4,
-				"delivery_price" : 550,
-				"service_price" : 0,
-				"product_price" : 162,
-				"total_price" : 712.0,
-
-				"products": [
-					{
-						"gcode": 23541627,
-						"name": "Профиль поликарбонатный торцевой 4мм прозрачный длина 2.1м",
-						"price": 55.00,
-						"img_preview": "/u/shop/235/preview/23541627_9b942d04278aef719a37419763e41345a0118beee7c2a994de3fc1476145fe15.jpg",
-						"count": 1
-					},
-					{
-						"gcode": 23479432,
-						"name": "Профиль для поликарбоната торцевой 4мм 2.1м прозрачный",
-						"price": 52.00,
-						"img_preview": "/u/shop/235/preview/23541627_9b942d04278aef719a37419763e41345a0118beee7c2a994de3fc1476145fe15.jpg",
-						"count": 1
-					},
-					{
-						"gcode": 23448377,
-						"name": "Термошайба d38мм для поликарб. 4мм бронза 25шт",
-						"price": 209.00,
-						"img_preview": "/u/shop/234/preview/23448377_21ae729f9434a266649cda8502bca3e67a0e2366e1f6b96eb43a57b30531ba94.jpg",
-						"count": 6
-					}
-				]
+	"track" : {
+	[
+		{
+			"id": "96e48f75-de18-4ab7-9d32-28ef7d152933",
+			"title": "Смотри во внутрь",
+			"duration": 125,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample.mp3"
 		},
- 
-	"order_create" : {
-		"order_id" : 223523,
-		"order_status" : "new",
-		"payment_redirect" : "https://www.sberbank.ru/ru/person"
-	},
-	
-	"user_register" : {
-		"result": "success",
-		"user_id": 890021,
-		"virtual_number": 899073,
-		"first_name": "John",
-		"last_name": "Derry",
-		"gender": 0,
-		"phone": "+7 (456) 457 45 74",
-		"birthdate": "1987-05-04"
-	},
-	
-	
-	"user_login" : {
-		"result": "success",
-		"user_id": 890021,
-		"virtual_number": 899073,
-		"first_name": "John",
-		"last_name": "Derry",
-		"gender": 0,
-		"phone": "+7 (456) 457 45 74",
-		"birthdate": "1987-05-04"
+		{
+			"id": "96e48f75-de18-4ab7-9d32-28ef7d152933",
+			"title": "Проблема — средство передвижения",
+			"duration": 123,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample2.mp3"
+		},
+		{
+			"id": "96e48f75-de18-4ab7-9d32-28ef7d152933",
+			"title": "Закон Зрелища",
+			"duration": 123,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+		},
+		{
+			"id": "96e48f75-de18-4ab7-9d32-28ef7d152933",
+			"title": "Три уровня практики",
+			"duration": 123,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample.mp3"
+		},
+		{
+			"id": "96e48f75-de18-4ab7-9452-28ef7d1556933",
+			"title": "Интеграция",
+			"duration": 12,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample2.mp3"
+		},
+		{
+			"id": "96e48f75-de87-4ab7-9d32-28ef7d1556933",
+			"title": "Будильник",
+			"duration": 123,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+		},
+		{
+			"id": "96e48f75-de18-465b7-9d32-28ef7d1556933",
+			"title": "Медитация на Мысль",
+			"duration": 123,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample.mp3"
+		},
+		{
+			"id": "96e42375-de18-4ab7-9d32-28ef7d1556933",
+			"title": "Принцип 10000 часов",
+			"duration": 123,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample2.mp3"
+		},
+		{
+			"id": "96e48f45-de18-4ab7-9d32-28ef7d1556933",
+			"title": "Медитация на Ничего-не-делание",
+			"duration": 123,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+		},
+		{
+			"id": "96458f75-de18-4ab7-9d32-28ef7d1556933",
+			"title": "Медитация на уборку квартиры",
+			"duration": 223,
+			"modificationDate": "2020-01-01T12:12:12",
+			"url": "https://positron-it.ru/app/playschool/sample.mp3"
+		}
+		]
+
 	}
+		
  
 }
