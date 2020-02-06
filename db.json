@@ -5,7 +5,7 @@
 			"cat_id": 1,
 			"title": "Смотри во внутрь",
 			"duration": 125,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample.mp3"
 		},
 		{
@@ -13,7 +13,7 @@
 			"cat_id": 1,
 			"title": "Проблема — средство передвижения",
 			"duration": 123,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample2.mp3"
 		},
 		{
@@ -21,7 +21,7 @@
 			"cat_id": 1,
 			"title": "Закон Зрелища",
 			"duration": 123,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample3.mp3"
 		},
 		{
@@ -29,7 +29,7 @@
 			"cat_id": 1,
 			"title": "Три уровня практики",
 			"duration": 123,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample.mp3"
 		},
 		{
@@ -37,7 +37,7 @@
 			"cat_id": 1,
 			"title": "Интеграция",
 			"duration": 12,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample2.mp3"
 		},
 		{
@@ -45,7 +45,7 @@
 			"cat_id": 1,
 			"title": "Будильник",
 			"duration": 123,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample3.mp3"
 		},
 		{
@@ -53,7 +53,7 @@
 			"cat_id": 2,
 			"title": "Медитация на Мысль",
 			"duration": 123,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample.mp3"
 		},
 		{
@@ -61,7 +61,7 @@
 			"cat_id": 2,
 			"title": "Принцип 10000 часов",
 			"duration": 123,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample2.mp3"
 		},
 		{
@@ -69,7 +69,7 @@
 			"cat_id": 2,
 			"title": "Медитация на Ничего-не-делание",
 			"duration": 123,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample3.mp3"
 		},
 		{
@@ -77,7 +77,7 @@
 			"cat_id": 2,
 			"title": "Медитация на уборку квартиры",
 			"duration": 223,
-			"modificationDate": "2020-01-01T12:12:12",
+			"modification_date": "2020-01-01T12:12:12",
 			"url": "https://positron-it.ru/app/playschool/sample.mp3"
 		}
 		]
