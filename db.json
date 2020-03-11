@@ -1,5 +1,85 @@
 [
 {
+"id": "8f600253-eb0c-4155-a56c-0dd7d14b3715",
+"title": "48-Медитация Планка (щадящая версия)",
+"sectionId": 1,
+"sectionName": "Базовые медитации",
+"shortText": null,
+"duration": 320,
+"modificationDate": "2020-03-04T10:37:01.003",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/48-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0%20(%D1%89%D0%B0%D0%B4%D1%8F%D1%89%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F).mp3"
+},
+{
+"id": "b48d990b-8b22-4fe9-ad77-669ccfd6b65b",
+"title": "67-Бонус №1 В какой роли ты Сейчас",
+"sectionId": 3,
+"sectionName": "Состояние целостности",
+"shortText": null,
+"duration": 11,
+"modificationDate": "2020-03-04T10:37:23.78",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/67-%D0%91%D0%BE%D0%BD%D1%83%D1%81%20%E2%84%961%20%D0%92%20%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9%20%D1%80%D0%BE%D0%BB%D0%B8%20%D1%82%D1%8B%20%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81.mp3"
+},
+{
+"id": "210f1a3a-e493-4079-b369-b9e1912028ed",
+"title": "Тренажерный Зал",
+"sectionId": 2,
+"sectionName": "Тренажерный зал",
+"shortText": null,
+"duration": 300,
+"modificationDate": "2020-03-10T13:52:01.757",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/01-%D0%A2%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D0%97%D0%B0%D0%BB.mp3"
+},
+{
+"id": "84d581cb-618e-406c-a886-6b0365ebd2fd",
+"title": "Вступление. Настройка",
+"sectionId": 2,
+"sectionName": "Тренажерный зал",
+"shortText": null,
+"duration": 199,
+"modificationDate": "2020-03-10T13:52:01.77",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/02-%D0%92%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.%20%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0.mp3"
+},
+{
+"id": "45955627-6d89-4dc0-a312-0dcfc2ece3ed",
+"title": "Смотри во Внутрь",
+"sectionId": 2,
+"sectionName": "Тренажерный зал",
+"shortText": null,
+"duration": 534,
+"modificationDate": "2020-03-10T13:52:01.773",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/03-%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%20%D0%B2%D0%BE%20%D0%92%D0%BD%D1%83%D1%82%D1%80%D1%8C.mp3"
+},
+{
+"id": "7e100ada-71bb-497b-aeae-b25cf5cc7235",
+"title": "Закон Зрелища",
+"sectionId": 2,
+"sectionName": "Тренажерный зал",
+"shortText": null,
+"duration": 216,
+"modificationDate": "2020-03-10T13:52:01.773",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/04-%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%97%D1%80%D0%B5%D0%BB%D0%B8%D1%89%D0%B0.mp3"
+},
+{
+"id": "423097c6-5027-4279-8fd9-444b888ffc2e",
+"title": "Проблема - Средство передвижения",
+"sectionId": 2,
+"sectionName": "Тренажерный зал",
+"shortText": null,
+"duration": 182,
+"modificationDate": "2020-03-10T13:52:01.773",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/05-%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%20-%20%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.mp3"
+},
+{
+"id": "63f3ef18-3ca2-48e2-a133-3cf53904fbd9",
+"title": "Медитация",
+"sectionId": 2,
+"sectionName": "Тренажерный зал",
+"shortText": null,
+"duration": 465,
+"modificationDate": "2020-03-10T13:52:01.777",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/06-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F.mp3"
+},
+{
 "id": "a6e9450d-09d3-420c-ba7a-4b9bd9255fbc",
 "title": "Три уровня Практики",
 "sectionId": 2,
@@ -20,243 +100,133 @@
 "url": "https://392003.selcdn.ru/sks/ps/tracks/2/08-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0.mp3"
 },
 {
-"id": "4608f2a8-b3f9-4bbc-a1b7-967819d9fd94",
-"title": "Медитация на Ничего-не-делание",
+"id": "e91d25df-58b1-47b3-9f99-77df6fe5ff7b",
+"title": "Интеграция",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 333,
-"modificationDate": "2020-03-10T13:52:01.83",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 596,
+"modificationDate": "2020-03-10T13:52:01.787",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/09-%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F.mp3"
 },
 {
-"id": "245435cc-3b1a-4e9d-a445-701f5b5c9b2e",
-"title": "Медитация на Макияж",
+"id": "1f2922de-d7ae-45f5-9453-0668ca3cff09",
+"title": "Рингтон",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 445,
-"modificationDate": "2020-03-10T13:52:01.83",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 107,
+"modificationDate": "2020-03-10T13:52:01.787",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/10-%D0%A0%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD.mp3"
 },
 {
-"id": "f34ba825-039b-4c25-a7e4-139eb4049a4a",
-"title": "Медитация на тексты в приложении Demchog",
+"id": "f370b647-3206-49a6-a382-02a25050919f",
+"title": "Медитация Будильник (введение)",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 322,
-"modificationDate": "2020-03-10T13:52:01.833",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 38,
+"modificationDate": "2020-03-10T13:52:01.79",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/11-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%91%D1%83%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%20(%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5).mp3"
 },
 {
-"id": "e5260b8b-bd12-4c07-a745-0a95f51ad245",
-"title": "Медитация на уборку квартиры",
+"id": "af38f4ec-e683-4d25-a236-d7796ad30710",
+"title": "Медитация Будильник",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 123,
-"modificationDate": "2020-03-10T13:52:01.833",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 573,
+"modificationDate": "2020-03-10T13:52:01.79",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/12-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%91%D1%83%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.mp3"
 },
 {
-"id": "a0375886-bff0-4945-a897-f71f0c360f9e",
-"title": "Медитация на Мастурбацию",
+"id": "61758924-2950-486c-a2db-0b1a889be2b3",
+"title": "Дыхание",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 172,
-"modificationDate": "2020-03-10T13:52:01.833",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 640,
+"modificationDate": "2020-03-10T13:52:01.79",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/13-%D0%94%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D0%B5.mp3"
 },
 {
-"id": "9d975777-c32e-4465-bd5f-0e00d98cfc09",
-"title": "Медитация на Вождение машины",
+"id": "f0920c12-6705-4dcd-89c5-2d934b1e8ac3",
+"title": "Медитация на Мысль",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 418,
-"modificationDate": "2020-03-10T13:52:01.833",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 297,
+"modificationDate": "2020-03-10T13:52:01.81",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/14-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%9C%D1%8B%D1%81%D0%BB%D1%8C.mp3"
 },
 {
-"id": "4e468ccf-0f09-4f07-829e-d9f530b59db2",
-"title": "Внутренний мир, как Театр реальности",
+"id": "2ff919f6-c360-4dae-8189-603c69b339bf",
+"title": "Медитация на Эмоцию",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 700,
-"modificationDate": "2020-03-10T13:52:01.837",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 209,
+"modificationDate": "2020-03-10T13:52:01.81",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/15-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%AD%D0%BC%D0%BE%D1%86%D0%B8%D1%8E.mp3"
 },
 {
-"id": "cadfbaeb-ef77-4823-bfde-b484de1e7bec",
-"title": "Правило №1",
+"id": "94b765f4-97a7-419b-9598-701bef83a91f",
+"title": "Внутренний Храм",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 823,
-"modificationDate": "2020-03-10T13:52:01.837",
-"url": "https://392003.selcdn.ru/sks/ps/tracks/2/40-%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%20%E2%84%961.mp3"
+"duration": 594,
+"modificationDate": "2020-03-10T13:52:01.81",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/16-%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%A5%D1%80%D0%B0%D0%BC.mp3"
 },
 {
-"id": "01f5a342-f2cb-42f5-949a-e436f38de8fc",
-"title": "Торус. Вступление",
+"id": "07418929-5b2d-4746-a377-e920385e11d0",
+"title": "Медитация на Сердечное биение",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 74,
-"modificationDate": "2020-03-10T13:52:01.837",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 784,
+"modificationDate": "2020-03-10T13:52:01.813",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/17-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%A1%D0%B5%D1%80%D0%B4%D0%B5%D1%87%D0%BD%D0%BE%D0%B5%20%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5.mp3"
 },
 {
-"id": "243b732a-e8f6-43fe-a384-30f2f39a239d",
-"title": "Торус на Звук",
+"id": "44672b6e-a8d5-4f99-8b26-5fb8ce1590c1",
+"title": "Принцип 10 000 часов",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 622,
-"modificationDate": "2020-03-10T13:52:01.84",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 262,
+"modificationDate": "2020-03-10T13:52:01.813",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/18-%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%2010%20000%20%D1%87%D0%B0%D1%81%D0%BE%D0%B2.mp3"
 },
 {
-"id": "05ede4ee-8a1d-4f13-bd85-feebf992c942",
-"title": "Торус на Свет",
+"id": "40570d33-0933-4d4f-9f9e-b302965167c5",
+"title": "Медитация на Действие",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 753,
-"modificationDate": "2020-03-10T13:52:01.84",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 265,
+"modificationDate": "2020-03-10T13:52:01.817",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/19-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%94%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5.mp3"
 },
 {
-"id": "1a0f00f1-7b44-42e5-8986-1f07f5173a4a",
-"title": "Торус на Любовь",
+"id": "65b22fca-eeae-4d54-b288-38268db6dbbd",
+"title": "Медитация на Еду",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 651,
-"modificationDate": "2020-03-10T13:52:01.84",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 257,
+"modificationDate": "2020-03-10T13:52:01.82",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/20-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%95%D0%B4%D1%83.mp3"
 },
 {
-"id": "9a3b13a1-818e-40c0-bbff-13e9c7ee215e",
-"title": "Медитации на Спорт (вступление)",
+"id": "e0cb8e5a-7652-4636-a752-130ebca6a4c3",
+"title": "Медитация на приготовление Еды",
 "sectionId": 2,
 "sectionName": "Тренажерный зал",
 "shortText": null,
-"duration": 85,
-"modificationDate": "2020-03-10T13:52:01.84",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "48faac5c-f8a9-4a64-ad07-182de4cb193d",
-"title": "Медитация на Бег",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 662,
-"modificationDate": "2020-03-10T13:52:01.843",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "92bb35b0-df96-4f5c-bc2c-a5985fe66c52",
-"title": "Медитация Планка",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 895,
-"modificationDate": "2020-03-10T13:52:01.843",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "6dffd363-245b-44ad-a8e5-cab423140113",
-"title": "Медитация Планка (щадящая версия)",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 321,
-"modificationDate": "2020-03-10T13:52:01.843",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "43b5ec92-4d2f-4305-8866-1dc4efea5e53",
-"title": "Мужской и Женский аспекты Игры",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 344,
-"modificationDate": "2020-03-10T13:52:01.847",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "b02368b9-d18e-4e3a-98fc-1e6042b51815",
-"title": "Медитация на Секс",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 525,
-"modificationDate": "2020-03-10T13:52:01.847",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "1a0efd49-8e84-4fd1-9377-df5ca807daf9",
-"title": "Медитация на акт Любви",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 3060,
-"modificationDate": "2020-03-10T13:52:01.847",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "938406b3-6322-49d6-ae7a-a88e9284a9d9",
-"title": "Дыхание Космического Танцора",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 845,
-"modificationDate": "2020-03-10T13:52:01.85",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "76347074-62bd-4992-8397-87fb2257aee4",
-"title": "Коронованный Гермафродит",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 261,
-"modificationDate": "2020-03-10T13:52:01.85",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "cbc4684c-1142-495d-81b5-3d90d5f8578e",
-"title": "Дыхание Коронованного Гермафродита",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 793,
-"modificationDate": "2020-03-10T13:52:01.85",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "66ba3149-6e37-4140-94e3-9b43b86c691a",
-"title": "Медитация на Страх",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 478,
-"modificationDate": "2020-03-10T13:52:01.857",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "a4d60e44-474c-49ea-b9fd-d6995b9119bd",
-"title": "Корпус методов Ткатцкий станок",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 548,
-"modificationDate": "2020-03-10T13:52:01.857",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
+"duration": 334,
+"modificationDate": "2020-03-10T13:52:01.82",
+"url": "https://392003.selcdn.ru/sks/ps/tracks/2/21-%D0%9C%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%95%D0%B4%D1%8B.mp3"
 }
 ]
