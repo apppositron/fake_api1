@@ -258,55 +258,5 @@
 "duration": 548,
 "modificationDate": "2020-03-10T13:52:01.857",
 "url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "6b83f0a8-ef38-4806-b0f7-a87993311ebb",
-"title": "Внутренний и Внешний Театры Реальности",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 579,
-"modificationDate": "2020-03-10T13:52:01.86",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "bc230e34-86d8-4756-b620-3a3a16acb503",
-"title": "Персональный комплекс тренировки",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 173,
-"modificationDate": "2020-03-10T13:52:01.86",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "a0e8662b-d789-4190-ac4c-72934862caf3",
-"title": "Мы - Повелители игр",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 405,
-"modificationDate": "2020-03-10T13:52:01.863",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "8084a8af-ab88-44d8-8a93-b98f973199ed",
-"title": "Переход ко Сну",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 603,
-"modificationDate": "2020-03-10T13:52:01.863",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
-},
-{
-"id": "a82bb30c-edeb-4891-bfad-615a681b179a",
-"title": "Послесловие",
-"sectionId": 2,
-"sectionName": "Тренажерный зал",
-"shortText": null,
-"duration": 432,
-"modificationDate": "2020-03-10T13:52:01.873",
-"url": "https://positron-it.ru/app/playschool/sample3.mp3"
 }
 ]
