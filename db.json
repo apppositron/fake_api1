@@ -4,7 +4,7 @@
 	    "gcode" : 24032605,
 	    "name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
 	    "price" : 74,
-	"new" : 0
+	"new" : 0,
 	"stock" : 0,
 	"has_discount" : 0,
 	"old_price" : 89,
@@ -18,10 +18,10 @@
 	    "gcode" : 24032629,
 	    "name" : "Соединитель одноуровневый Краб 60*27мм",
 	    "price" : 17,
-			"new" : 0
-			"stock" : 0,
-			"has_discount" : 0,
-			"old_price" : 89,
+		"new" : 0,
+		"stock" : 0,
+		"has_discount" : 0,
+		"old_price" : 89,
 	    "is_stocked" : 0,
 	    "prior" : 0,
 	    "cat_id" : 37,
@@ -33,7 +33,7 @@
 	    "gcode" : 24032605,
 	    "name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
 	    "price" : 74,
-			"new" : 0
+			"new" : 0,
 			"stock" : 0,
 			"has_discount" : 0,
 			"old_price" : 89,
@@ -47,7 +47,7 @@
 	    "gcode" : 24032605,
 	    "name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
 	    "price" : 74,
-		"new" : 0
+		"new" : 0,
 		"stock" : 0,
 		"has_discount" : 0,
 		"old_price" : 89,
