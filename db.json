@@ -1,6 +1,92 @@
 {
 "products" : {
-	"related" : [],
-	"similar": []
+	"related" : [
+		{
+			"gcode" : 24032605,
+			"name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
+			"price" : 74,
+			"new" : 0,
+			"stock" : 0,
+			"has_discount" : 0,
+			"old_price" : 89,
+			"is_stocked" : 1,
+			"prior" : 0,
+			"cat_id" : 37,
+			"img_preview" : "/u/shop/240/preview/24032605_b58aa1602c5ce2a898684c14e495bb404e1085ea255cb6df769eb365c9421c63.jpg",
+			"qty": 17
+		},
+		{
+			"gcode" : 24456805,
+			"name" : "Соединитель одноуровневый Краб 60*27мм",
+			"price" : 74,
+			"new" : 0,
+			"stock" : 0,
+			"has_discount" : 0,
+			"old_price" : 89,
+			"is_stocked" : 1,
+			"prior" : 0,
+			"cat_id" : 37,
+			"img_preview" : "/u/shop/240/preview/24032629_9e064762d802d721671433f6329b26f27cad11ec729ffbce5e2f74b595c4c1f6.jpg",
+			"qty": 17
+		}
+	],
+	"similar": [
+		{
+			"gcode" : 24028505,
+			"name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
+			"price" : 74,
+			"new" : 0,
+			"stock" : 0,
+			"has_discount" : 0,
+			"old_price" : 89,
+			"is_stocked" : 1,
+			"prior" : 0,
+			"cat_id" : 37,
+			"img_preview" : "/u/shop/240/preview/24032605_b58aa1602c5ce2a898684c14e495bb404e1085ea255cb6df769eb365c9421c63.jpg",
+			"qty": 17
+		},
+		{
+			"gcode" : 24218509,
+			"name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
+			"price" : 74,
+			"new" : 0,
+			"stock" : 0,
+			"has_discount" : 0,
+			"old_price" : 89,
+			"is_stocked" : 1,
+			"prior" : 0,
+			"cat_id" : 37,
+			"img_preview" : "/u/shop/240/preview/24032605_b58aa1602c5ce2a898684c14e495bb404e1085ea255cb6df769eb365c9421c63.jpg",
+			"qty": 17
+		},
+		{
+			"gcode" : 24298505,
+			"name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
+			"price" : 74,
+			"new" : 0,
+			"stock" : 0,
+			"has_discount" : 0,
+			"old_price" : 89,
+			"is_stocked" : 1,
+			"prior" : 0,
+			"cat_id" : 37,
+			"img_preview" : "/u/shop/240/preview/24032605_b58aa1602c5ce2a898684c14e495bb404e1085ea255cb6df769eb365c9421c63.jpg",
+			"qty": 17
+		},
+		{
+			"gcode" : 24028815,
+			"name" : "Профиль потолочный направляющий ППН 28*27мм 3м толщ.0,4мм",
+			"price" : 74,
+			"new" : 0,
+			"stock" : 0,
+			"has_discount" : 0,
+			"old_price" : 89,
+			"is_stocked" : 1,
+			"prior" : 0,
+			"cat_id" : 37,
+			"img_preview" : "/u/shop/240/preview/24032605_b58aa1602c5ce2a898684c14e495bb404e1085ea255cb6df769eb365c9421c63.jpg",
+			"qty": 17
+		}
+	]
 }
 }
