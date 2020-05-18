@@ -100,5 +100,37 @@
 			"qty": 2
 		}
 	]
-	}
+	},
+"inStockCheck" : [
+	{
+		"base_id" : 1,
+		"base_name" : "Санкт-Петербург",
+		"stock_count : 4
+	},
+	{
+		"base_id" : 2,
+		"base_name" : "Всеволожск",
+		"stock_count : 0
+	},
+	{
+		"base_id": 46,
+		"base_name": "Волхов",
+		"stock_count : 8
+	},
+	{
+		"base_id": 2,
+		"base_name": "Всеволожск",
+		"stock_count : 25
+	},
+	{
+		"base_id": 31,
+		"base_name": "Выборг",
+		"stock_count : 4
+	},
+	{
+		"base_id": 24,
+		"name": "Выра",
+		"stock_count : 0
+	},
+	]
 }
