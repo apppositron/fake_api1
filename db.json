@@ -105,31 +105,37 @@
 	{
 		"base_id" : 1,
 		"base_name" : "Санкт-Петербург",
+		"base_type" : "internet",
 		"stock_count" : 4
 	},
 	{
 		"base_id" : 2,
 		"base_name" : "Всеволожск",
+		"base_type" : "hyper",
 		"stock_count" : 0
 	},
 	{
 		"base_id": 46,
 		"base_name": "Волхов",
+		"base_type" : "hyper",
 		"stock_count" : 8
 	},
 	{
-		"base_id": 2,
-		"base_name": "Всеволожск",
+		"base_id": 34,
+		"base_name": "Великий Новгород",
+		"base_type" : "hyper",
 		"stock_count" : 25
 	},
 	{
 		"base_id": 31,
 		"base_name": "Выборг",
+		"base_type" : "hyper",
 		"stock_count" : 4
 	},
 	{
 		"base_id": 24,
 		"base_name": "Выра",
+		"base_type" : "mini",
 		"stock_count" : 0
 	}
 	]
