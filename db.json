@@ -137,6 +137,30 @@
 		"base_name": "Выра",
 		"base_type" : "mini",
 		"stock_count" : 0
-	}
+	},
+		{
+		"base_id": 12,
+		"base_name": "Грузино",
+		"base_type" : "super",
+		"stock_count" : 0
+	},
+		{
+		"base_id": 9,
+		"base_name": "Зеленогорск",
+		"base_type" : "mini",
+		"stock_count" : 0
+	},
+		{
+		"base_id": 3,
+		"base_name": "Колтуши",
+		"base_type" : "super",
+		"stock_count" : 0
+	},
+		{
+		"base_id": 27,
+		"base_name": "Мурино",
+		"base_type" : "super",
+		"stock_count" : 0
+	},
 	]
 	}
