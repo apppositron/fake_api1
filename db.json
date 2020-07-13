@@ -1,11 +1,14 @@
- "deeplink" : {
-   "applinks" : {
-     "apps" : [],
-     "details" : [
-       {
-         "appID": "3YSLX7L42M.ru.positron-it.vimos",
-         "paths": ["*"],
-       }
-      ]
-   }
- }
+ 
+{ 
+  "deeplink" : {
+    "applinks" : {
+      "apps" : [],
+      "details" : [
+        {
+          "appID": "3YSLX7L42M.ru.positron-it.vimos",
+          "paths": ["*"],
+        }
+       ]
+    }
+  }
+}
