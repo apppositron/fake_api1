@@ -162,5 +162,17 @@
 		"base_type" : "super",
 		"stock_count" : 0
 	}
-	]
+	],
+	
+ "deeplink" : {
+   "applinks" : {
+     "apps" : [],
+     "details" : [
+       {
+         "appID": "3YSLX7L42M.ru.positron-it.vimos",
+         "paths": ["*"],
+       }
+      ]
+   }
+ }
 }
