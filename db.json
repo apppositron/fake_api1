@@ -3,7 +3,8 @@
     "applinks" : {
       "details" : [
         {
-          "appID": "3YSLX7L42M.ru.positron-it.vimos"
+          "appID": "3YSLX7L42M.ru.positron-it.vimos",
+          "paths": ["*"]
         }
        ]
     }
