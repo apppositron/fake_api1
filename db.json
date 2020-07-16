@@ -9,6 +9,39 @@
         }
        ]
     }
+  },
+  
+  "cut_request" : {
+    "result": "success",
+    "message": "",
+    "link": "vimos.ru/cut",
+    "auth_cookie": "gerh34h3e4rj535j34j34/34hj34j"
+  },
+  
+  "cut_list" : [
+    	{
+       "result": "success",
+       "message": "",
+       "gcode": 23183704,
+       "name": "Брус 100*100мм 6м ест.вл. сортовой",
+       "img_preview": "/u/shop/231/preview/23183704_96d1bf11a038dab8fe1603043d45768fac83f614d17caf77e62d1703c8cfa51b.jpg",
+       "count": 5,
+       "price_total": 45.0
+	    },
+     {
+       "result": "success",
+       "message": "",
+       "gcode": 23882607,
+       "name": "Брусок дер. МаксиЛес профилированный 40х40 мм 3.0",
+       "img_preview": "/u/shop/238/preview/23882607_8d5edf95647176154a35bc04be3f5b3189fd66e99ab4422adfcd05df45ffdd2d.jpg",
+       "count": 5,
+       "price_total": 45.0
+	    }
+  ],
+  
+  "cut_delete" : {
+    "result": "success",
+    "message": ""
   }
  
 }
