@@ -51,6 +51,24 @@
   "cut_delete" : {
     "result": "success",
     "message": ""
-  }
+  },
+	 
+ "bind_card" : {
+    "result": "success",
+    "user_id": 83842,
+    "basket_id": 79000802,
+    "first_name": "Test",
+    "last_name": "Test",
+    "middle_name": "Test",
+    "gender": 1,
+    "phone": "77777777775",
+    "birthdate": "1992-04-04",
+    "virtual_number": 934079,
+    "discount_percent": 3,
+    "email": "test.positron.it@gmail.com",
+    "auth_token": "9WfoKFk7CFkqM9U9fYS-yrVgGbu2vogp1598044050",
+    "purch_sum": 0,
+    "bonus": 0
+} 
  
 }
