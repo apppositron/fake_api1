@@ -11,12 +11,11 @@
     }
   },
   
-  "cut_request" : {
-    "result": "success",
-    "message": "",
-    "link": "vimos.ru/cut",
-    "auth_cookie": "gerh34h3e4rj535j34j34/34hj34j"
-  },
+  "check-updates" : {
+	  "version": 5,
+	  "changelog": "- Добавлен учет событий въезда/выезда со склада",
+	  "url": "https://positron-it.ru/app/vimos/vimos_debug_040220_new.apk",
+},
   
   "cut_list" : [
 	{
