@@ -13,7 +13,7 @@
   
   "check-updates" : {
 	  "version": 5,
-	  "changelog": "- Добавлен учет событий въезда/выезда со склада \n - Мелкие оптимизации",
+	  "changelog": "- Добавлен учет событий въезда/выезда со склада <br/> - Мелкие оптимизации",
 	  "url": "https://positron-it.ru/app/vimos/vimos_debug_040220_new.apk"
 },
   
