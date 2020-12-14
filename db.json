@@ -11,7 +11,7 @@
     }
   },
   
-  "check-updates" : {
+ "check-updates" : {
 	  "build": 7,
 	  "versionName": "1.1.5",
 	  "url": "https://positron-it.ru/app/vimos/vimos_debug_040220_new.apk"
