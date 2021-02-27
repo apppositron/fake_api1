@@ -11,59 +11,31 @@
     }
   },
   
- "check-updates" : [],
-  
-  "cut_list" : [
-	{
-		"gcode": 23183704,
-		"name": "Брус 100*100мм 6м ест.вл. сортовой",
-		"img_preview": "/u/shop/231/preview/23183704_96d1bf11a038dab8fe1603043d45768fac83f614d17caf77e62d1703c8cfa51b.jpg",
-		"basket_count": 5,
-		"cut_count": 3,
-		"price_total": 45.0
-	},
-	{
-		"gcode": 23882607,
-		"name": "Брусок дер. МаксиЛес профилированный 40х40 мм 3.0",
-		"img_preview": "/u/shop/238/preview/23882607_8d5edf95647176154a35bc04be3f5b3189fd66e99ab4422adfcd05df45ffdd2d.jpg",
-		"basket_count": 5
-	},
-	{
-		"gcode": 23866355,
-		"name": "Доска профильная сухая 20X120X3000 R2 сорт АВ",
-		"img_preview": "/u/shop/238/preview/23866355_92a18d51bed1f108ce80965f1a822c8343c4d5324eea332a6c2217b4422dffe2.png",
-		"basket_count": 2,
-		"cut_count": 1,
-		"price_total": 20.0
-	},
-  	{
-		"gcode": 23184176,
-		"name": "Доска 50*100мм 6м обрезная ест. вл. сортовая",
-		"img_preview": "/u/shop/231/preview/23184176_37c0a7381bf106ba540727db2440d23e334029cc4ee64406daf4209fec0fdb7e.jpg",
-		"basket_count": 7
-	}
-  ],
-  "cut_delete" : {
-    "result": "success",
-    "message": ""
-  },
-	 
- "bind_card" : {
-    "result": "success",
-    "user_id": 83842,
-    "basket_id": 79000802,
-    "first_name": "Test",
-    "last_name": "Test",
-    "middle_name": "Test",
-    "gender": 1,
-    "phone": "77777777775",
-    "birthdate": "1992-04-04",
-    "virtual_number": 934079,
-    "discount_percent": 3,
-    "email": "test.positron.it@gmail.com",
-    "auth_token": "9WfoKFk7CFkqM9U9fYS-yrVgGbu2vogp1598044050",
-    "purch_sum": 0,
-    "bonus": 0
-} 
+ "flow" : [
+	 {
+		 "id": "wegwewg",
+		"owner": {
+			"name" : "РусСиб"
+			"id" : "wegwe32g3egweg",
+			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
+		},
+		 "jobPosition" : "It-специалист",
+		 "jobLocation" : "Санкт-Петербург",
+		 "video_preview_url" : "https://github.com/apppositron/fake_api1/raw/master/video_preview_placeholder.jpg",
+		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov"
+	 },
+		 {
+		 "id": "w253gewg",	 
+		"owner": {
+			"name" : "Собибор"
+			"id" : "wegwe32g3egweg",
+			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
+		},
+		 "jobPosition" : "It-аналитик",
+		 "jobLocation" : "Санкт-Петербург",
+		 "video_preview_url" : "https://github.com/apppositron/fake_api1/raw/master/video_preview_placeholder.jpg",
+		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov"
+	 }
+ ]
  
 }
