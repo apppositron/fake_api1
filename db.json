@@ -19,8 +19,8 @@
 			"id" : "wegwe32g3egweg",
 			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
 		},
-		 "jobPosition" : "It-специалист",
-		 "jobLocation" : "Санкт-Петербург",
+		 "job_position" : "It-специалист",
+		 "job_location" : "Санкт-Петербург",
 		 "video_preview_url" : "https://github.com/apppositron/fake_api1/raw/master/video_preview_placeholder.jpg",
 		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov"
 	 },
@@ -31,8 +31,8 @@
 			"id" : "wegwe32g3egweg",
 			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
 		},
-		 "jobPosition" : "It-аналитик",
-		 "jobLocation" : "Санкт-Петербург",
+		 "job_position" : "It-аналитик",
+		 "job_location" : "Санкт-Петербург",
 		 "video_preview_url" : "https://github.com/apppositron/fake_api1/raw/master/video_preview_placeholder.jpg",
 		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov"
 	 }
