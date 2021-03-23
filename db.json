@@ -1,16 +1,3 @@
- { 
-  "apple-app-site-association" : {
-    "applinks" : {
-     "apps": [],
-      "details" : [
-        {
-          "appID": "3YSLX7L42M.ru.positron-it.vimos",
-          "paths": ["*"]
-        }
-       ]
-    }
-  },
-  
  "flow" : [
 	 {
 		 "id": "wegwewg",
@@ -36,6 +23,22 @@
 		 "video_preview_url" : "https://github.com/apppositron/fake_api1/raw/master/video_preview_placeholder.jpg",
 		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov"
 	 }
- ]
+ ],
+
+"invites" : [
+	{
+		"id" : "wegweg",
+        	"owner" : {
+			"id" : "23g23",
+			"name" : "Собибара",
+			"avatar_url" : "https://www.thebrandingjournal.com/wp-content/uploads/2019/05/chanel_logo_the_branding_journal.jpg"
+		},
+        	"description": "Работка не пыльная",
+        	"update_date": "2021-03-23T19:22:02+0000",
+        	"status" : "candidate_invite_waiting",
+       		"type" : "invite"
+	
+	}	
+]
  
 }
