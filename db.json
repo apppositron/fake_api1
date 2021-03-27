@@ -39,7 +39,21 @@
         	"status" : "candidate_invite_waiting",
        		"type" : "invite"
 	
-	}	
+	},
+	
+	{
+		"id" : "erwerw",
+        	"owner" : {
+			"id" : "34b",
+			"name" : "Руссоль",
+			"avatar_url" : "https://previews.123rf.com/images/val1982/val19821905/val1982190500008/125409784-example-of-modern-logo-zebra-head.jpg"
+		},
+        	"description": "Солевые залежи прекрасны и полны солью. Без работы не останетесь",
+        	"update_date": "2021-03-25T19:22:02+0000",
+        	"status" : "candidate_invite_accepted",
+       		"type" : "invite"
+	
+	}
 ]
  
 }
