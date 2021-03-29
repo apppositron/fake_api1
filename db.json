@@ -54,6 +54,36 @@
        		"type" : "invite"
 	
 	}
+],
+	
+"responses" : [
+	{
+		"id" : "rjrte",
+        	"owner" : {
+			"id" : "uyie,",
+			"name" : "Альфасим",
+			"avatar_url" : "https://st2.depositphotos.com/3050229/9087/v/950/depositphotos_90875368-stock-illustration-example-vector-logo-td.jpg"
+		},
+        	"description": "Хороший банк",
+        	"update_date": "2021-03-26T16:22:02+0000",
+        	"status" : "company_response_contact",
+       		"type" : "response"
+	
+	},
+	
+	{
+		"id" : "rjbwebn",
+        	"owner" : {
+			"id" : "yuerbdn",
+			"name" : "Прывиак",
+			"avatar_url" : "https://www.coreldraw.com/static/cdgs/landing_pages/seo/logo-design/02-audience.jpg"
+		},
+        	"description": "Современная медицина",
+        	"update_date": "2021-03-27T15:22:02+0000",
+        	"status" : "company_response_refused",
+       		"type" : "response"
+	
+	}
 ]
  
 }
