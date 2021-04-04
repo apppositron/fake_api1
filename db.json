@@ -5,19 +5,22 @@
 		"owner": {
 			"name" : "РусСиб",
 			"id" : "wegwe32g3egweg",
-			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
+			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+			"client_type" : 0
 		},
 		 "job_position" : "It-специалист",
 		 "job_location" : "Санкт-Петербург",
 		 "video_preview_url" : "https://github.com/apppositron/fake_api1/raw/master/video_preview_placeholder.jpg",
-		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov"
+		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov",
+		 
 	 },
 		 {
 		 "id": "w253gewg",	 
 		"owner": {
 			"name" : "Собибор",
 			"id" : "wegwe32g3egweg",
-			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
+			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+			"client_type" : 0
 		},
 		 "job_position" : "It-аналитик",
 		 "job_location" : "Санкт-Петербург",
@@ -32,7 +35,8 @@
         	"owner" : {
 			"id" : "23g23",
 			"name" : "Собибара",
-			"avatar_url" : "https://www.thebrandingjournal.com/wp-content/uploads/2019/05/chanel_logo_the_branding_journal.jpg"
+			"avatar_url" : "https://www.thebrandingjournal.com/wp-content/uploads/2019/05/chanel_logo_the_branding_journal.jpg",
+			"client_type" : 0
 		},
         	"description": "Работка не пыльная",
         	"update_date": "2021-03-24T14:49:58Z",
@@ -46,7 +50,8 @@
         	"owner" : {
 			"id" : "34b",
 			"name" : "Руссоль",
-			"avatar_url" : "https://previews.123rf.com/images/val1982/val19821905/val1982190500008/125409784-example-of-modern-logo-zebra-head.jpg"
+			"avatar_url" : "https://previews.123rf.com/images/val1982/val19821905/val1982190500008/125409784-example-of-modern-logo-zebra-head.jpg",
+			"client_type" : 0
 		},
         	"description": "Солевые залежи прекрасны и полны солью. Без работы не останетесь",
         	"update_date": "2021-03-20T13:49:58Z",
@@ -62,7 +67,8 @@
         	"owner" : {
 			"id" : "uyie,",
 			"name" : "Альфасим",
-			"avatar_url" : "https://st2.depositphotos.com/3050229/9087/v/950/depositphotos_90875368-stock-illustration-example-vector-logo-td.jpg"
+			"avatar_url" : "https://st2.depositphotos.com/3050229/9087/v/950/depositphotos_90875368-stock-illustration-example-vector-logo-td.jpg",
+			"client_type" : 0
 		},
         	"description": "Хороший банк",
         	"update_date": "2021-03-28T17:49:58Z",
@@ -76,7 +82,8 @@
         	"owner" : {
 			"id" : "yuerbdn",
 			"name" : "Прывиак",
-			"avatar_url" : "https://www.coreldraw.com/static/cdgs/landing_pages/seo/logo-design/02-audience.jpg"
+			"avatar_url" : "https://www.coreldraw.com/static/cdgs/landing_pages/seo/logo-design/02-audience.jpg",
+			"client_type" : 0
 		},
         	"description": "Современная медицина",
         	"update_date": "2021-03-26T17:49:58Z",
@@ -92,7 +99,8 @@
 		"owner": {
 			"name" : "РусСиб",
 			"id" : "wegwe32g3egweg",
-			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
+			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+			"client_type" : 0
 		},
 		 "job_position" : "It-специалист",
 		 "job_location" : "Санкт-Петербург",
@@ -104,7 +112,8 @@
 		"owner": {
 			"name" : "Собибор",
 			"id" : "wegwe32g3egweg",
-			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg"
+			"avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+			"client_type" : 0
 		},
 		 "job_position" : "It-аналитик",
 		 "job_location" : "Санкт-Петербург",
