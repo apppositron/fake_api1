@@ -118,6 +118,28 @@
 		 "video_preview_url" : "https://github.com/apppositron/fake_api1/raw/master/video_preview_placeholder.jpg",
 		 "video_url" : "https://filesamples.com/samples/video/mov/sample_960x540.mov"
 	 }
-	]
+	],
+	
+	"profile_info" : {
+    "uuid" : "wegw23g23g",
+   "type" : 0,
+   "name" : "Вася Пупкинс",
+   "phone" : "+7934634634",
+   "gender" : 0,
+   "date_birth" : "1985-03-26T17:49:58Z",
+   "nickname" : "vasyan",
+   "email": "vasyan@ergerh.er",
+   "avatarUrl" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+   
+   "vacancy" : {
+     "job_position" : "IT-аналитик",
+     "job_location" : "Санкт-Петербург",
+     "activity_scope" : "IT-разработка",
+     "work_type" : "Удаленно, попроектно, работа в офисе",
+     "description" : "Дизайнер с большим опытом работы, умею проектировать интерфейсы, общаться с клиентами и отстаивать свою точку зрения",
+     "portfolio_url" : "https://behance.com/kamerunec151215"
+   }
+  
+  }
  
 }
