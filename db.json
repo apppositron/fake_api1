@@ -120,7 +120,8 @@
 	 }
 	],
 	
-	"profile_info" : {
+{
+  "profile_info" : {
     "uuid" : "wegw23g23g",
    "type" : 0,
    "name" : "Вася Пупкинс",
@@ -129,7 +130,7 @@
    "date_birth" : "1985-03-26T17:49:58Z",
    "nickname" : "vasyan",
    "email": "vasyan@ergerh.er",
-   "avatarUrl" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+   "avatar_url" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
    
    "vacancy" : {
      "job_position" : "IT-аналитик",
@@ -141,5 +142,7 @@
    }
   
   }
+
+}
  
 }
