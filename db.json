@@ -120,8 +120,8 @@
 	 }
 	],
 	
-{
-  "profile_info" : {
+	
+"profile_info" : {
     "uuid" : "wegw23g23g",
    "type" : 0,
    "name" : "Вася Пупкинс",
@@ -143,6 +143,5 @@
   
   }
 
-}
  
 }
