@@ -122,6 +122,7 @@
 	
 	
 "profile_info" : {
+	"status" : "success",
     "uuid" : "wegw23g23g",
    "type" : 0,
    "name" : "Вася Пупкинс",
